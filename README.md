@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=000000&height=250&section=header&text=Hello%20World🌏%20I'm%20GYURI%20PARK&fontSize=50&fontColor=00FF00&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
+![header](https://capsule-render.vercel.app/api?type=waving&color=c8c8c8&height=200&section=header&text=Hello%20World🌏%20I'm%20GYURI%20PARK&fontSize=60&fontColor=0DFF39&animation=fadeIn&fontAlignY=38&desc=%20&descAlignY=62&descAlign=62)
 
 
 
