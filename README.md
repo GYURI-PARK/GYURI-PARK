@@ -30,7 +30,9 @@
 <img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=Linktree&logoColor=white"/>
 </p>
 
-<img src="http://mazandi.herokuapp.com/api?handle=stepania99&theme=warm"/> [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=stepania99)](https://solved.ac/stepania99)
+<p aling="center"><img src="http://mazandi.herokuapp.com/api?handle=stepania99&theme=warm"/></p>
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=stepania99)](https://solved.ac/stepania99)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYURI-PARK&layout=compact&theme=dark)
