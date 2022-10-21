@@ -2,7 +2,7 @@
 </br>
 </br>
 <h3 align="center">🛠 Tech Stack 🛠</h3>
-<p align="center">Techs that I've used at least once</p>
+<h4 align="center">Techs that I've used at least once</h4>
 
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> 
@@ -18,8 +18,14 @@
 <img src="https://img.shields.io/badge/Swift-F05138?style=flat-square&logo=Swift&logoColor=white"/>
 <img src="https://img.shields.io/badge/Qgis-589632?style=flat-square&logo=Qgis&logoColor=white"/>
 </p>
+</br>
+<h3 align="center">🐾 Info 🐾</h3>
+<p align="center">
+<img src="https://img.shields.io/badge/Blog-000000?style=flat-square&logo=Tistory&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
+<img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=Linktree&logoColor=white"/>
+</p>
 
-<h4 align="center">What I use the most</h4>
 <img src="http://mazandi.herokuapp.com/api?handle=stepania99&theme=warm"/> [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=stepania99)](https://solved.ac/stepania99)
 
 
