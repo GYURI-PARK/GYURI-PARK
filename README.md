@@ -1,6 +1,14 @@
 ![header](https://capsule-render.vercel.app/api?type=slice&color=Fe0166&height=150&section=header&text=Hello%20World🛫🛬🌏%20I'm%20GYURI%20PARK&fontSize=50&fontColor=0000fe&animation=fadeIn&fontAlignY=50&desc=%20&descAlignY=62&descAlign=62)
 </br>
 </br>
+
+<div align="center"> 
+  
+  [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGYURI-PARK&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
+  </div>
+
+
 <h3 align="center">🛠 Tech Stack 🛠</h3>
 <h4 align="center">Techs that I've used at least once</h4>
 
@@ -33,4 +41,5 @@
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=stepania99)](https://solved.ac/stepania99)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYURI-PARK&layout=compact&theme=dark)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FGYURI-PARK&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+ 
+![Footer](https://capsule-render.vercel.app/api?type=slice&color=fe0166&height=150&section=footer&rotate=180)
