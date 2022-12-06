@@ -39,10 +39,6 @@
 </p>
 
 </br>
-  
-<h3 align="center">🪸 Archive 🪸</h3>
-<h5 align="center"> 1. SWF 반응형 웹 사이트 만들기 </h5>
-<h5 align="center"> 2. 보행자 맞춤형 길 찾기 서비스 WayFindeR </h5>
 
 </br>
 </br>
