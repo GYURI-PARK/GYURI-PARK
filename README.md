@@ -45,7 +45,7 @@
 
 <div align="center"> 
   
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=stepania99)](https://solved.ac/stepania99)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYURI-PARK&layout=compact&theme=dark)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/pastel/generate_badge?boj=stepania99)](https://solved.ac/stepania99)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GYURI-PARK&layout=compact&theme=dark)
 
   </div>
 
