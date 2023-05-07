@@ -34,8 +34,8 @@
 <p align="center">
 <!-- <a href="https://www.notion.so/26bf90acf24f46f6a7fe685188a2ad81"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/>  -->
 <a href="https://gyurisinzorba.tistory.com"><img src="https://img.shields.io/badge/Blog-c8c8c8?style=flat-square&logo=Tistory&logoColor=white"/>
-<a href="https://www.instagram.com/ios.doris/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
-<a href="https://linktr.ee/gyuri_park"><img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=Linktree&logoColor=white"/>
+<a href="https://www.instagram.com/devvdoris/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/> 
+<!-- <a href="https://linktr.ee/gyuri_park"><img src="https://img.shields.io/badge/Linktree-39E09B?style=flat-square&logo=Linktree&logoColor=white"/> -->
 </p>
 
 </br>
